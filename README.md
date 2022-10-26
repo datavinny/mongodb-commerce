@@ -11,7 +11,7 @@ Nesse projeto, trabalhei com o banco de dados `commerce`, que contém dados do c
 ## :wrench: Técnologias usadas
   
 Back-end:
-  > Desenvolvido usando: NodeJS, ExpressJS, MongoDB, MYSQL, ES6
+  > Desenvolvido usando: NodeJS, ExpressJS, MongoDB, ES6
 
 ## 🎓 Orientações
 ### Rodando o Projeto
